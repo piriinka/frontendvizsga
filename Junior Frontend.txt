@@ -1,0 +1,2 @@
+npm install -g @angular/cli firebase-tools
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
